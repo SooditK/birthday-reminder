@@ -1,37 +1,32 @@
 export default [
   {
     id: 1,
-    name: "Bertie Yates",
+    name: "Neel Gupta",
     age: 29,
-    image:
-      "https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-2_ipcjws.jpg",
+    image: "https://i.imgur.com/ZyfDtnk.jpg",
   },
   {
     id: 2,
-    name: "Hester Hogan",
+    name: "Udhay Kaul",
     age: 32,
-    image:
-      "https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-3_rxtqvi.jpg",
+    image: "https://i.imgur.com/0TNj4Xy.jpg",
   },
   {
     id: 3,
-    name: "Larry Little",
+    name: "Akshat Pathak",
     age: 36,
-    image:
-      "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883423/person-4_t9nxjt.jpg",
+    image: "https://i.imgur.com/UbVRFDI.jpg",
   },
   {
     id: 4,
-    name: "Sean Walsh",
+    name: "Sagar Sachan",
     age: 34,
-    image:
-      "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883417/person-3_ipa0mj.jpg",
+    image: "https://imgur.com/5USFrMx.jpg",
   },
   {
     id: 5,
-    name: "Lola Gardner",
+    name: "Ansh Sarin",
     age: 29,
-    image:
-      "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg",
+    image: "https://i.imgur.com/CqjKx9R.jpg",
   },
 ];
